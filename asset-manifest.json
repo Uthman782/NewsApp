@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/newsapp/static/css/main.a75fb72c.css",
+    "main.js": "/newsapp/static/js/main.e442c60d.js",
+    "static/js/787.4c026eef.chunk.js": "/newsapp/static/js/787.4c026eef.chunk.js",
+    "static/media/usman.jpg": "/newsapp/static/media/usman.54ca800bf4083a3ec385.jpg",
+    "index.html": "/newsapp/index.html",
+    "main.a75fb72c.css.map": "/newsapp/static/css/main.a75fb72c.css.map",
+    "main.e442c60d.js.map": "/newsapp/static/js/main.e442c60d.js.map",
+    "787.4c026eef.chunk.js.map": "/newsapp/static/js/787.4c026eef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a75fb72c.css",
+    "static/js/main.e442c60d.js"
+  ]
+}
